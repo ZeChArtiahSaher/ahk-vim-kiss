@@ -1,5 +1,5 @@
 # SIMPLE AutoHotKey vim keys for single braincelled like me
-## With Modifier Keys!
+### With Modifier Keys!
 
 *SIMPLE SIMPLE SIMPLE SIMPLE*
 
