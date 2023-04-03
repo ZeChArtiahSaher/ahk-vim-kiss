@@ -1,4 +1,4 @@
-# SIMPLE AutoHotKey vim keys for single braincelled like me
+# SIMPLE AutoHotKey VIM keys for single braincelled (me)
 ### With Modifier Keys!
 
 *SIMPLE SIMPLE SIMPLE SIMPLE*
